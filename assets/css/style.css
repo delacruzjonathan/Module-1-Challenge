@@ -8,6 +8,7 @@
 body {
     background-color: #d9dcd6;
 }
+
 /*header and nav bar class tags removed*/
 header {
     padding: 20px;
@@ -95,6 +96,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -112,6 +114,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -130,6 +133,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
 /* changed the position of the Benefits section to match the flow of the html file*/
 
 .benefits {

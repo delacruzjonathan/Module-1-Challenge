@@ -16,12 +16,11 @@ Changes were made in the CSS code so that the HTML flow followed the CSS, in tur
 4. Some class elements were altered between the CSS and HTML as well as descriptions added to both to make them easier to follow.
 
 
-##Screenshot
-    ```md
-    ![screenshot of website image](./assets/127.0.0.1_5500_index.html.png)
-    ```
-##Link
+## Screenshot
+![screenshot of website image](./assets/127.0.0.1_5500_index.html.png)
+
+## Usage
 
 Webpage:
 
- https://delacruzjonathan.github.io/Module-1-Challenge/
+ [Github Page Address](https://delacruzjonathan.github.io/Module-1-Challenge/)
