@@ -17,13 +17,9 @@ Changes were made in the CSS code so that the HTML flow followed the CSS, in tur
 
 
 ##Screenshot
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![screenshot of website image](./assets/127.0.0.1_5500_index.html.png)
     ```
-
 ##Link
 
 Webpage:
